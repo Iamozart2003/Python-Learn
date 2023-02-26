@@ -36,3 +36,24 @@
 #     return 7 * x
 
 # print(inter(5))
+
+# def ute(k):
+#     if(k > 0):
+#         res = k + ute(k-1) 
+#         print(res)
+#     else:
+#         res = 0
+#     return res
+
+# print("sec")
+# ute(9)
+
+# x = lambda a, b, c : a + b + c
+# print(x(5, 6, 2))
+
+# def myfunc(n):
+#   return lambda a : a * n
+
+# mytripler = myfunc(3)
+
+# print(mytripler(11))
